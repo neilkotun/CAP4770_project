@@ -34,7 +34,7 @@ Recall: 0.9967861043215975
 
 The accuracy obtained was 92% but it is important to note that the dataset was highly class imbalanced. There were almost 10 times more cases where citations were issued, which could impact the results of the model on other datasets. 
 
-##Results
+## Results
 
 Due to the high class imbalance of the data used to train the model, we are not able to conclude that the model can predict based on the given factors whether a traffic stop would result in a warning or a citation.   Data sets with a better ratio of citation vs. warning outcomes would be better for training the model to accurately predict for both cases.  Though we were not able to confirm our hypothesis through completing this experiment, insights were discovered related to traffic stop outcome and time of day, driver gender, driver race, officer gender, and officer race.
 
